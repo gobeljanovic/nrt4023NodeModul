@@ -1,0 +1,11 @@
+const matematika = require("./main.js")
+
+console.log(`7 na kvadrat = ${matematika.naKvadrat(7)}`)
+console.log(`koren od 16 = ${matematika.koren(16)}`)
+console.log(`ostatak pri deljenju 9 sa 2 = ${matematika.ostatakPriDeljenju(9,2)}`)
+console.log(`faktorijel od 5 = ${matematika.faktorijel(5)}`)
+console.log(`2 na 3 = ${matematika.stepen(2,3)}`)
+console.log(`4 je paran ? = ${matematika.paranBroj(4)}`)
+console.log(`4 je neparan ? = ${matematika.neparanBroj(4)}`)
+console.log(`5 je paran ? = ${matematika.paranBroj(5)}`)
+console.log(`5 je neparan ? = ${matematika.neparanBroj(5)}`)
