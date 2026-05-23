@@ -1,0 +1,15 @@
+{
+  "name": "nrt_40_23.zadatak1",
+  "version": "1.0.0",
+  "description": "IST domaci node paket",
+  "license": "ISC",
+  "author": "Djordje Gobeljic NRT-40/23",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "mathjs": "^15.2.0"
+  }
+}
