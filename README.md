@@ -1,5 +1,5 @@
 # Kako instalirati Modul
-### ?
+### U konzolu upisati -> npm install @gobeljanovic/matematicki-modul 
 
 
 ## U ovom modulu imamo 7 matematckih izraza
