@@ -1,5 +1,5 @@
 {
-  "name": "nrt_40_23.zadatak1",
+  "name": "nrt_40_23-zadatak1",
   "version": "1.0.0",
   "description": "IST domaci node paket",
   "license": "ISC",
@@ -7,9 +7,16 @@
   "type": "commonjs",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "test.js"
   },
   "dependencies": {
     "mathjs": "^15.2.0"
-  }
+  },
+  "keywords": [
+    "math",
+    "node",
+    "faktorijel",
+    "koren",
+    "stepen"
+  ]
 }
